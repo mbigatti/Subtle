@@ -1,5 +1,5 @@
 # Subtle
-_Improve your knowledge of the english language by learning new words used in your [favourite][1] TV Shows and movies_
+_Improve your knowledge of the english language by learning new words used in your favourite TV Shows and movies_
 
 ![image](http://cl.ly/000w3h0E2Q0R/Schermata%202016-01-22%20alle%2016.44.03.png)
 
@@ -27,5 +27,3 @@ The program produces to file output:
 ### Contact
 [http://bigatti.it](http://bigatti.it)  
 [@mbigatti](https://twitter.com/mbigatti)
-
-[1] Please note the use of the british version of this word.
