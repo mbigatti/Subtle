@@ -1,4 +1,5 @@
 aft => a poppa
+carousing => orge
 crooks => truffatori
 despot => despota
 easel => cavalletto

@@ -73,7 +73,7 @@ end
 word_list.sort!
 
 if word_list.count != 0
-	puts '  subtitles contains ' + word_list.count.to_s + ' words'	
+	puts '  subtitles contains ' + word_list.count.to_s + ' unknown words'	
 	puts '  translating...'
 	
 	translations_file = File.open(filename + ".translations.txt", 'w')
